@@ -4,6 +4,8 @@
 
 :computer: I write code!
 
+---
+
 ![](https://img.shields.io/badge/%20-Vue-4fc08d?style=for-the-badge)
 ![](https://img.shields.io/badge/%20-TypeScript-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/%20-NodeJS-026e00?style=for-the-badge)
