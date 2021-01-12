@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 :game_die: I play games!
 
