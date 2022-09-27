@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Marco Schuster, a passionate FrontEnd web developer from Austria.
+Hi, I'm Marco, a passionate front-end developer web developer from Austria.
 
 - 🔭 I’m currently working on [DonateGifts](https://github.com/donate-gifts/donate-gifts)
 - 🌱 I’m currently learning React
