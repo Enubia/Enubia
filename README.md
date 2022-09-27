@@ -1,28 +1,32 @@
-### Hello there 👋
+### Hi there, I'm [Marco!](https://enubia.github.io) 👋
 
-:game_die: I play games!
+<br />
+<br />
 
-:computer: I write code!
+Hi, I'm Marco Schuster, a passionate FrontEnd web developer from Austria.
 
----
+- 🔭 I’m currently working on [DonateGifts](https://github.com/donate-gifts/donate-gifts)
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything [here](https://github.com/enubia/enubia/issues)
 
-![](https://img.shields.io/badge/%20-Vue-4fc08d?style=for-the-badge)
-![](https://img.shields.io/badge/%20-TypeScript-blue?style=for-the-badge)
-![](https://img.shields.io/badge/%20-NodeJS-026e00?style=for-the-badge)
-![](https://img.shields.io/badge/%20-MongoDB-13aa52?style=for-the-badge)
-[![](https://img.shields.io/badge/%20-Twitch-9147ff?style=for-the-badge)](https://www.twitch.tv/enubia1)
+**Languages and Tools:**  
 
-<!--
-**Enubia/Enubia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-Here are some ideas to get you started:
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enubia&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enubia&layout=compact&theme=material-palenight" />
+</a>
+
+----
+Last Edited on: 27/09/2022
