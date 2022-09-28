@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Marco, a passionate front-end developer web developer from Austria.
+A passionate front-end web developer from Austria. (The one without Kangoroos)
 
 - 🔭 I’m currently working on [DonateGifts](https://github.com/donate-gifts/donate-gifts)
 - 🌱 I’m currently learning React
