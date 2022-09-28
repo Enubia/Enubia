@@ -5,7 +5,7 @@
 
 A passionate front-end web developer from Austria. (The one without Kangoroos)
 
-- 🔭 I’m currently working on [DonateGifts](https://github.com/donate-gifts/donate-gifts)
+- 🔭 I’m currently working on [DonateGifts](https://github.com/donategifts)
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/enubia/enubia/issues)
 
