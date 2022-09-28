@@ -9,6 +9,9 @@ A passionate front-end web developer from Austria. (The one without Kangoroos)
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/enubia/enubia/issues)
 
+<br />
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,9 +19,8 @@ A passionate front-end web developer from Austria. (The one without Kangoroos)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
+<br />
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enubia&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
@@ -29,4 +31,4 @@ A passionate front-end web developer from Austria. (The one without Kangoroos)
 </a>
 
 ----
-Last Edited on: 27/09/2022
+Last Edited on: 28/09/2022
