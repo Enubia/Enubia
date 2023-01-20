@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
 
           # Options
-          user: enubia
+          user: Enubia
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Vienna
