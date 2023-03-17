@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=enubia&color=7C3138&style=flat-square) 
+![Profile Views]
 
 Hi, my alter ego is named **Enubia**, but you can call me **Marco**. 
 
@@ -39,12 +39,12 @@ I'm a Frontend Web Developer based in Vienna, Austria (the one without Kangaroos
 ### 👨‍💻 What I do
       
    * 💼 **I'm working on:**
-      * [DonateGifts](https://github.com/donategifts/donategifts) - a website that enables the users to send holiday gifts and school supplies to the children in foster care and emergency shelters.
+      * [DonateGifts] - a website that enables the users to send holiday gifts and school supplies to the children in foster care and emergency shelters.
       
    * ✨ **I'm maintaining:**
-      * [GhostChat](https://github.com/enubia/ghost-chat) - a standalone, multiplatform [Twitch.tv](https://twitch.tv) chat overlay.
+      * [GhostChat] - a standalone, multiplatform [Twitch.tv] chat overlay.
 
-   * 🎓 **Learning** - proper usage of [Typescript](https://www.typescriptlang.org/) generics.
+   * 🎓 **Learning** - proper usage of [Typescript] generics.
    * 😄 **Fun fact** - The first computer “bug” was an actual real-life bug
 
 ---
@@ -57,8 +57,7 @@ These are my favorite technologies for building all the things.
    * **Scripting** - Bash/NodeJS
    * **Datastores** - PostgreSQL, MongoDB, Redis
    * **Infrastucture** - Docker, Kubernetes
-   * **Tools** - Github, VS Code
-   * **Other** - Linux/Mac/Windows
+   * **Desktop Apps** - Electron
 
 ---
 
@@ -78,4 +77,14 @@ These are some statistics from my github account.
 
 > Provided by **[GitHub Readme Stats]**
 
-[GitHub Readme Stats]:     https://github.com/anuraghazra/github-readme-stats
+[Profile Views]:		https://komarev.com/ghpvc/?username=enubia&color=7C3138&style=flat-square
+
+[DonateGifts]:			https://github.com/donategifts/donategifts
+
+[GhostChat]:			https://github.com/enubia/ghost-chat
+
+[Twitch.tv]:			https://twitch.tv
+
+[Typescript]:			https://www.typescriptlang.org
+
+[GitHub Readme Stats]:		https://github.com/anuraghazra/github-readme-stats
