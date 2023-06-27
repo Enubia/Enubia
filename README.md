@@ -1,8 +1,6 @@
 ![Profile Views]
 
-Hi, my alter ego is named **Enubia**, but you can call me **Marco**. 
-
-I'm a Frontend Web Developer based in Vienna, Austria (the one without Kangaroos). 
+Hi, I'm **Marco**, Software Developer based in Vienna, Austria (the one without Kangaroos). 
 
 <table align="center">
   <tr>
@@ -56,7 +54,7 @@ These are my favorite technologies for building all the things.
    * **Frontend** - HTML5/CSS3, JavaScript, Vue/NuxtJS, React, Bootstrap/TailwindCSS/PicoCSS
    * **Scripting** - Bash/NodeJS
    * **Datastores** - PostgreSQL, MongoDB, Redis
-   * **Infrastucture** - Docker, Kubernetes
+   * **Infrastucture** - Docker
    * **Desktop Apps** - Electron
 
 ---
