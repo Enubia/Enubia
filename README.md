@@ -2,36 +2,6 @@
 
 Hi, I'm **Marco**, Software Developer based in Vienna, Austria (the one without Kangaroos). 
 
-<table align="center">
-  <tr>
-    <td>
-		<table>
-			<tr>
-				<td>
-					<a href="mailto:dev.enubia@mailbox.org" target="_blank" rel="nofollow">
-						<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/gmail.svg" alt="Gmail" width="32" align="center">
-						dev.enubia@mailbox.org
-					</a>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<a href="https://discord.com/users/277132742087671808" target="_blank" rel="nofollow">
-						<img src="https://github.com/LeonardSSH/LeonardSSH/blob/master/discord.svg" alt="Discord" width="32" align="center">
-						Enubia#1385
-					</a>
-				</td>
-			</tr>
-		</table>
-    </td>
-    <td>
-		<a href="https://discord.com/users/277132742087671808" target="_blank" rel="nofollow">
-			<img src="https://lanyard.cnrad.dev/api/277132742087671808?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 👨‍💻 What I do
