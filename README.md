@@ -45,6 +45,9 @@ These are some statistics from my github account.
 
 > Provided by **[GitHub Readme Stats]**
 
+
+[![An image of @enubia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/enubia)](https://holopin.io/@enubia)
+
 [Profile Views]:		https://komarev.com/ghpvc/?username=enubia&color=7C3138&style=flat-square
 
 [DonateGifts]:			https://github.com/donategifts/donategifts
