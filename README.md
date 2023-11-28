@@ -1,8 +1,6 @@
 ![Profile Views]
 
-Hi, I'm **Marco**, Software Developer based in Vienna, Austria (the one without Kangaroos).
-
-Request ID for Aleksandra from JetBrains 16112023/13133332
+Hi, I'm **Marco**, a Software Developer based in Vienna, Austria (the one without Kangaroos).
 
 ---
 
