@@ -1,6 +1,6 @@
 ![Profile Views]
 
-Hi, I'm **Marco**, a Software Developer based in Vienna, Austria (the one without Kangaroos).
+Hi, I'm **Marco**, a Software Developer based in Austria (the one without Kangaroos).
 
 ---
 
